@@ -2,7 +2,7 @@
 
 The website for **SEYO Academy** (Sports, Education and Youth Organization), a non-profit youth soccer program in Etobicoke and York, Toronto, for players aged 5 to 15.
 
-**Live site:** _link added after deployment_
+**Live site:** [seyo-academy-website.vercel.app](https://seyo-academy-website.vercel.app)
 
 ## What it does
 
